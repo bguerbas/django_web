@@ -27,7 +27,7 @@ https://fusion-bguerbas.herokuapp.com/admin/
 
 - Ao adicionar dados no board do admin o seite será atualizado com as informações
 
-  ![admin](https://user-images.githubusercontent.com/29557513/152624447-2dc81a7d-484a-4bde-9009-be93c72d4a52.jpg)
+![admin](https://user-images.githubusercontent.com/29557513/152624447-2dc81a7d-484a-4bde-9009-be93c72d4a52.jpg)
   
 
 
